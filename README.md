@@ -4,7 +4,7 @@ I'm Patrick Mota, brazilian software developer
 
 - 🔭 I’m currently working on CI&T
 - 😄 Pronouns: he/his
-- [Linkedin](https://www.linkedin.com/in/opatrickmota/)
+- [LinkedIn](https://www.linkedin.com/in/opatrickmota/)
 
 ### 💻 Technologies
 
