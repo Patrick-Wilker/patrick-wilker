@@ -24,4 +24,4 @@ I'm Patrick Mota, brazilian software developer
 
 ### 🚪 Visitor Count
 
-![Visitor Count](https://profile-counter.glitch.me/patrick-wilker/count.svg) 
+![Visitor Count](https://profile-counter.glitch.me/opatrickmota/count.svg) 
