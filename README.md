@@ -2,7 +2,6 @@
 
 I'm Patrick Mota, brazilian software developer
 
-- 🔭 I’m currently working on CI&T
 - 😄 Pronouns: he/him
 - [LinkedIn](https://www.linkedin.com/in/opatrickmota/)
 
