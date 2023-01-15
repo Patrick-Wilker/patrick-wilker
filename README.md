@@ -21,21 +21,3 @@
 ![Ubuntu](https://img.shields.io/badge/ubuntu-purple?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/android_studio-0078d7.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-
-#### GitHub Stats
-<div align="left">
-  
-  <a href="https://github.com/opatrickmota">
-    <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api?username=opatrickmota&show_icons=true&theme=dracula&count_private=true">
-  </a>
-  <a href="https://github.com/opatrickmota">
-    <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=opatrickmota&layout=compact&theme=dracula&count_private=true">
-  </a>
-  
-
-</div>
-
-### 🚪 Visitor Count
-
-![Visitor Count](https://profile-counter.glitch.me/opatrickmota/count.svg) 
